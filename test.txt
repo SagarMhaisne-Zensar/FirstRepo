@@ -10,4 +10,8 @@ q
 q
 
 
+<<<<<<< .merge_file_a06560
 "merging in branch 0"
+=======
+"makeing change in branch 1"
+>>>>>>> .merge_file_a12692
